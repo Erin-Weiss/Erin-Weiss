@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Erin-Weiss/Erin-Weiss/main/erin-weiss-banner.png)](https://github.com/Erin-Weiss)
+[![Header](https://raw.githubusercontent.com/Erin-Weiss/Erin-Weiss/main/erin-weiss-banner-1.png)](https://github.com/Erin-Weiss)
 
 ---
 
