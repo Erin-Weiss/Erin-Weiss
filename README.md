@@ -12,7 +12,6 @@
     width="400">
 </p>
 
-<!-- Two-column layout -->
 <p align="center">
   <span style="display:inline-block; text-align:left; width:45%; vertical-align:top;">
 
@@ -38,13 +37,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Erin-Weiss&theme=onedark&title=Experience"
-      alt="GitHub Experience Trophy" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erin-Weiss&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
@@ -54,6 +46,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erin-Weiss&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+<h3 align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Erin-Weiss&theme=onedark&title=Experience"
+         width="820" alt="GitHub Experience Trophy">
+  </a>
+</h3>
+
 
 ---
 
