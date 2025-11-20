@@ -47,13 +47,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erin-Weiss&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<h3 align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Erin-Weiss&theme=onedark&title=Experience"
-         width="820" alt="GitHub Experience Trophy">
-  </a>
-</h3>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-111-ff69b4?logo=github" />
+  <img src="https://img.shields.io/badge/Stars-3-yellow?logo=github" />
+  <img src="https://img.shields.io/badge/PRs-1-blue?logo=github" />
+  <img src="https://img.shields.io/badge/Issues-0-lightgrey?logo=github" />
+</p>
 
 ---
 
