@@ -7,7 +7,7 @@
 I build machine learning systems from research through production — training models, engineering features, and deploying APIs with containerized infrastructure, monitoring, and CI/CD. My recent work includes a CatBoost model that predicts used-car prices within ~$1,300 at the median across 243k vehicles, served via a FastAPI endpoint with Docker, Kubernetes, and automated testing.
 
 **Explore my projects:** [Erin Weiss Portfolio](https://erin-weiss.github.io/index.html)  
-**View my résumé:** [Download Here](https://drive.google.com/file/d/1eBUVzJnTZ_t7UB1Azzgs1JVbIv-pcj5K/view?usp=sharing)  
+**View my résumé:** [Download Here](https://drive.google.com/file/d/191c2Msghk1dNXZPXrVh-ex0RWGSA3HLl/view?usp=sharing)  
 **Reach me at:** erin.michele.weiss@gmail.com
 
 ---
