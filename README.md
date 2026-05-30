@@ -4,7 +4,7 @@
 
 ## About Me
 
-I build machine learning systems from research through production — training models, engineering features, and deploying APIs with containerized infrastructure, monitoring, and CI/CD. My recent work includes a CatBoost model that predicts used-car prices within ~$1,300 at the median across 243k vehicles, served via a FastAPI endpoint with Docker, Kubernetes, and automated testing.
+I build machine learning systems from research through production: training models, engineering features, and deploying APIs with containerized infrastructure, monitoring, and CI/CD. My recent work includes a CatBoost model that predicts used-car prices within ~$1,300 at the median across 243k vehicles, served via a FastAPI endpoint with Docker, Kubernetes, and automated testing.
 
 **Explore my projects:** [Erin Weiss Portfolio](https://erin-weiss.github.io/index.html)  
 **View my résumé:** [Download Here](https://drive.google.com/file/d/191c2Msghk1dNXZPXrVh-ex0RWGSA3HLl/view?usp=sharing)  
@@ -22,7 +22,7 @@ Predicts used-car listing prices within ~$1,300 at the median across 243k vehicl
 
 ### [Used Car Price Prediction API](https://github.com/Erin-Weiss/used-car-price-api) — Production Deployment
 
-Takes the CatBoost model from Part 1 and ships it as a production API — request validation, fuzzy input matching, multi-stage Docker builds, Kubernetes orchestration with autoscaling, Prometheus + Grafana monitoring, and CI/CD via GitHub Actions.
+Takes the CatBoost model from Part 1 and ships it as a production API: request validation, fuzzy input matching, multi-stage Docker builds, Kubernetes orchestration with autoscaling, Prometheus + Grafana monitoring, and CI/CD via GitHub Actions.
 
 `FastAPI` · `Docker` · `Kubernetes` · `GitHub Actions` · `Prometheus` · `Grafana` · `pytest`
 
