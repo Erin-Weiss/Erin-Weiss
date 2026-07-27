@@ -4,7 +4,11 @@
 
 ## About Me
 
-I build machine learning systems and the infrastructure to run them: training models, engineering features, and packaging them as production-ready APIs with containerized infrastructure, monitoring, and CI/CD. My recent work includes a CatBoost model that predicts used-car prices within ~$1,300 at the median across 243k vehicles, served via a FastAPI endpoint with Docker, Kubernetes, and automated testing.
+I build tools people can run and trust.
+
+My deepest work is in machine learning systems and the infrastructure to run them, including a CatBoost model that predicts used-car prices within ~$1,300 at the median across 243k vehicles, served via a FastAPI endpoint with Docker, Kubernetes, and automated testing. Around that sit data pipelines, geospatial analysis, and client-facing applications, including a live tool that searches 127k parcel records and ships an assumptions log with every run so the client can see how the answer was reached.
+
+Before this I spent several years as a Director of Strategic Planning, making calls off tools whose limits I could not see. That is where I learned to build for the people who inherit the tool, not the person who wrote it.
 
 **Explore my projects:** [Erin Weiss Portfolio](https://erin-weiss.github.io/index.html)  
 **View my résumé:** [Download Here](https://drive.google.com/file/d/191c2Msghk1dNXZPXrVh-ex0RWGSA3HLl/view?usp=sharing)  
@@ -26,17 +30,17 @@ Takes the CatBoost model from Part 1 and ships it as a production API: request v
 
 `FastAPI` · `Docker` · `Kubernetes` · `GitHub Actions` · `Prometheus` · `Grafana` · `pytest`
 
+### [Demolition Neighbor Notification](https://github.com/Erin-Weiss/stl-demo-notify) — Geospatial Tool ([Live App](https://stl-demo-notify.streamlit.app/))
+
+Turns a contractor's demolition site list into a complete neighbor notification package. Searches 126,958 St. Louis parcels against 500 ft buffers measured from each site's boundary, returning 1,636 addresses across a 30-site project and flagging 134 parcels whose assessor records contradict themselves for field verification. Ships as both a Streamlit app and a CLI running the identical pipeline.
+
+`Python` · `GeoPandas` · `Folium` · `Streamlit` · `GeoParquet` · `pytest` · `ruff`
+
 ### [Reinforcement Learning](https://github.com/Erin-Weiss/reinforcement-learning) — Agent Optimization
 
 Implements RL algorithms to optimize a mobile robot's warehouse path. Covers exploration vs. exploitation, policy optimization, hyperparameter tuning, and reward shaping.
 
 `Python` · `NumPy` · `pandas` · `Matplotlib`
-
-### [Excel Cleaning & Compare App](https://github.com/Erin-Weiss/Excel-cleaning-and-compare-app) — Deployed Web Tool
-
-A live Streamlit application for cleaning messy PDF-to-Excel invoice data and reconciling datasets side-by-side. Built for a real client workflow.
-
-`Python` · `Streamlit` · `pandas` · `openpyxl`
 
 ### [Real Estate Analysis](https://github.com/Erin-Weiss/R-Real-Estate-Project) — Statistical Modeling in R
 
@@ -90,6 +94,9 @@ Analyzes U.S. housing trends (2016–2022) with a multiple linear regression mod
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
+  <a href="https://geopandas.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/geopandas/139C5A" alt="GeoPandas" width="40" height="40"/>
+  </a>
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
@@ -98,6 +105,9 @@ Analyzes U.S. housing trends (2016–2022) with a multiple linear regression mod
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.getdbt.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
