@@ -32,9 +32,9 @@ Takes the CatBoost model from Part 1 and ships it as a production API: request v
 
 ### [Demolition Neighbor Notification](https://github.com/Erin-Weiss/stl-demo-notify) — Geospatial Tool ([Live App](https://stl-demo-notify.streamlit.app/))
 
-Turns a contractor's demolition site list into a complete neighbor notification package. Searches 126,958 St. Louis parcels against 500 ft buffers measured from each site's boundary, returning 1,636 addresses across a 30-site project and flagging 134 parcels whose assessor records contradict themselves for field verification. Ships as both a Streamlit app and a CLI running the identical pipeline.
+Turns a client's demolition site list into a complete neighbor notification package. Searches 126,958 St. Louis parcels against 500 ft buffers measured from each site's boundary, returning 1,636 addresses across a 30-site project and flagging 134 parcels whose assessor records contradict themselves for field verification. The map file works with no internet connection and also publishes to a live link with a scannable code printed onto the crew checklists. Ships as both a Streamlit app and a CLI running the identical pipeline.
 
-`Python` · `GeoPandas` · `Folium` · `Streamlit` · `GeoParquet` · `pytest` · `ruff`
+`Python` · `GeoPandas` · `Shapely` · `Folium` · `Streamlit` · `GeoParquet` · `Netlify` · `pytest` · `ruff`
 
 ### [Reinforcement Learning](https://github.com/Erin-Weiss/reinforcement-learning) — Agent Optimization
 
